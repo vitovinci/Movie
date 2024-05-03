@@ -1,0 +1,14 @@
+C:\Users\VINCIV\source\repos\Movie\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\VINCIV\source\repos\Movie\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\VINCIV\source\repos\Movie\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\VINCIV\source\repos\Movie\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\VINCIV\source\repos\Movie\DAL\obj\Debug\net8.0\ref\DAL.dll

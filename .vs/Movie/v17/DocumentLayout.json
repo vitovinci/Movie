@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VINCIV\\source\\repos\\Movie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C02EC1A8-E84F-4288-B804-0266DCC54F09}|BLL\\BLL.csproj|c:\\users\\vinciv\\source\\repos\\movie\\bll\\model\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02EC1A8-E84F-4288-B804-0266DCC54F09}|BLL\\BLL.csproj|solutionrelative:bll\\model\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C02EC1A8-E84F-4288-B804-0266DCC54F09}|BLL\\BLL.csproj|c:\\users\\vinciv\\source\\repos\\movie\\bll\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C02EC1A8-E84F-4288-B804-0266DCC54F09}|BLL\\BLL.csproj|solutionrelative:bll\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC77687A-0AF2-4B9A-897D-8E618430E03A}|DAL\\DAL.csproj|c:\\users\\vinciv\\source\\repos\\movie\\dal\\migrations\\20240503151931_migrazione-001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC77687A-0AF2-4B9A-897D-8E618430E03A}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20240503151931_migrazione-001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\VINCIV\\source\\repos\\Movie\\BLL\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\MovieService.cs",
+              "ToolTip": "C:\\Users\\VINCIV\\source\\repos\\Movie\\BLL\\Service\\MovieService.cs",
+              "RelativeToolTip": "BLL\\Service\\MovieService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:28:44.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240503151931_migrazione-001.cs",
+              "DocumentMoniker": "C:\\Users\\VINCIV\\source\\repos\\Movie\\DAL\\Migrations\\20240503151931_migrazione-001.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20240503151931_migrazione-001.cs",
+              "ToolTip": "C:\\Users\\VINCIV\\source\\repos\\Movie\\DAL\\Migrations\\20240503151931_migrazione-001.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20240503151931_migrazione-001.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:19:31.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieModel.cs",
+              "DocumentMoniker": "C:\\Users\\VINCIV\\source\\repos\\Movie\\BLL\\Model\\MovieModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Model\\MovieModel.cs",
+              "ToolTip": "C:\\Users\\VINCIV\\source\\repos\\Movie\\BLL\\Model\\MovieModel.cs",
+              "RelativeToolTip": "BLL\\Model\\MovieModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:50:12.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
